@@ -44,7 +44,7 @@ see P16AuthenticatedEncryption.cpp for more information
 +-------------------------------------------------------+---------------------+
 ```
 
-as for the origin? i'm not entirely sure - RakNet public sources make no mention of an AES/HMAC-SHA256-based encryption scheme. i think it's custom made for P16.
+this encryption and verification scheme is exclusive to P16
 
 ## raknet compatibility
 
